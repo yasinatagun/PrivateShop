@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316397551318",
+    "project_id": "private-shop-932c4",
+    "storage_bucket": "private-shop-932c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316397551318:android:27e49e3449903b97675377",
+        "android_client_info": {
+          "package_name": "com.example.privateshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1UpZ6RXDRr-qbkV3CPZvuc0P8iBE1Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
